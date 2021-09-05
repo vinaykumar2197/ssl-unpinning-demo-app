@@ -88,8 +88,8 @@ To perform ssl unpinning, various steps are involved.
 
 
  
-![SSL Exceotion Screenshot](https://github.com/vinaykumar2197/ssl-unpinning-demo-app/sc-ssl-unpinning.png)
-![Burp Suite Screenshot](https://github.com/vinaykumar2197/ssl-unpinning-demo-app/sc-burp-suite.png)
+![SSL Exceotion Screenshot](https://raw.githubusercontent.com/vinaykumar2197/ssl-unpinning-demo-app/master/sc-ssl-unpinning.png)
+![Burp Suite Screenshot](https://raw.githubusercontent.com/vinaykumar2197/ssl-unpinning-demo-app/master/sc-burp-suite.png)
 
 
 ## Authors
